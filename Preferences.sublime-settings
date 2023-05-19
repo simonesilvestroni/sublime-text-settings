@@ -1,0 +1,48 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+  "font_face": "SFMono-Regular",
+  "font_size": 14,
+  "font_options": [
+    "no_italic",
+    "no_liga",
+    "no_clig",
+    "no_calt",
+    "dlig"
+  ],
+  "always_show_minimap_viewport": true,
+  "tree_animation_enabled": false,
+  // MarkdownEditing (Folding):
+  // Enable automatic folding of url parts of inline references or images
+  "mde.auto_fold_link.enabled": false,
+  "file_tab_style": "rounded",
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "caret_extra_top": 1,
+  "caret_extra_bottom": 1,
+  "caret_style": "solid",
+  "fade_fold_buttons": false,
+  "highlight_line_number": true,
+  "highlight_modified_tabs": true,
+  "line_padding_bottom": 3,
+  "line_padding_top": 2,
+  "remember_layout": true,
+  "create_window_at_startup": false,
+  "show_encoding": true,
+  "show_navigation_bar": false,
+  "show_project_first": true,
+  "hide_new_tab_button": true,
+  "hide_tab_scrolling_buttons": true,
+  "open_files_in_new_window": "finder_only",
+  "preview_on_click": "only_left",
+  "theme": "auto",
+  "light_theme": "Default.sublime-theme",
+  "dark_theme": "Default Dark.sublime-theme",
+  "color_scheme": "auto",
+  "light_color_scheme": "GitHub Light Legacy.sublime-color-scheme",
+  "dark_color_scheme": "GitHub Dark Legacy.sublime-color-scheme",
+  "ignored_packages":
+  [
+		"Vintage",
+  ],
+}
