@@ -12,8 +12,6 @@
   ],
   "always_show_minimap_viewport": true,
   "tree_animation_enabled": false,
-  // MarkdownEditing (Folding):
-  // Enable automatic folding of url parts of inline references or images
   "mde.auto_fold_link.enabled": false,
   "file_tab_style": "rounded",
   "tab_size": 2,
@@ -43,6 +41,6 @@
   "dark_color_scheme": "GitHub Dark Legacy.sublime-color-scheme",
   "ignored_packages":
   [
-		"Vintage",
-  ],
+		"Vintage"
+  ]
 }

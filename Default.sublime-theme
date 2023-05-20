@@ -6,7 +6,7 @@
     "font_size": 12.5,
     "font_size_lg": 16,
     "font_size_title": 19,
-    "font_face": "SFCompactText-Regular",
+    "font_face": "SFCompactText-Regular"
   },
   "rules":
   [
@@ -57,11 +57,11 @@
     },
     {
       "class": "tab_label",
-      "font.face": "var(font_face)",
+      "font.face": "var(font_face)"
     },
     {
       "class": "tool_tip_label_control",
-      "font.face": "var(font_face)",
-    }, 
+      "font.face": "var(font_face)"
+    }
   ]
 }
